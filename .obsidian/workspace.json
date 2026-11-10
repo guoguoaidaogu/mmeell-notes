@@ -56,9 +56,33 @@
               "icon": "lucide-file",
               "title": "程设"
             }
+          },
+          {
+            "id": "8aefdea06587fe1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes_for_details.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "notes_for_details"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,8 +274,11 @@
       "media-extended:打开媒体快速切换器": false
     }
   },
-  "active": "59f856c26821d355",
+  "active": "8aefdea06587fe1b",
   "lastOpenFiles": [
+    "程设.md",
+    "notes_for_details.md",
+    "Pasted image 20261105181437.png",
     "笔记参考/线性代数笔记-溺水的小丑鱼.pdf",
     "杂物/上海交通大学（闵行校区）公共交通出行指南-V20260918.pdf",
     "ppt/项目建议书-参考1.pdf",
@@ -261,9 +289,7 @@
     "ppt/第3章 分支程序设计.pdf",
     "ppt/第4章 循环程序设计.pdf",
     "ppt/第5章 过程封装-函数（在数组后讲授）.pdf",
-    "ppt/第6章 批量数据处理-数组（在函数前讲授）.pdf",
     " .canvas",
-    "程设.md",
     "笔记.md",
     "未命名 3.canvas",
     "未命名 1.md",
@@ -291,7 +317,6 @@
     "the-art-of-command-line/README-el.md",
     "the-art-of-command-line/CONTRIBUTING.md",
     "the-art-of-command-line/AUTHORS.md",
-    "SurviveSJTUManual/SUMMARY.md",
-    "SurviveSJTUManual/README.md"
+    "SurviveSJTUManual/SUMMARY.md"
   ]
 }
